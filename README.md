@@ -2,6 +2,9 @@
 
 It is my study project of VR View for the Web 
 
+## Live Demo
+https://designquest.com.hk/demo/vrview/
+
 ## Install
     npm install
     
